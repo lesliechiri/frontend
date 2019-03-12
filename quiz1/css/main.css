@@ -1,0 +1,47 @@
+body{
+	background-color: rgb(255,99,71);
+}	
+
+
+h1{
+	
+    border-style: solid;
+	border-width: 20px;
+	background-color: white;
+	padding:20px;
+	text-align: right;
+}
+
+
+
+/*LESLIE*//*COMMENT*/
+.leslie {
+	font-weight: normal;
+	border-color: black;
+
+}
+p{
+	font-family: arial;
+	font-size: 15px;
+,	font-weight: bold;
+	font-stretch: condensed;
+	text-align: center;
+
+}
+
+.sporty p{
+	padding: 20px;
+	text-align: right;
+	font-weight: bold;
+	background-color: white;
+	border: 60px;
+	margin: 0 auto;
+}
+
+
+
+
+header ul li {
+	display: inline;
+	 
+}
