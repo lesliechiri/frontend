@@ -1,0 +1,24 @@
+body{
+	background-image:url(../img/Hot.png),url(../img/real.png),url(../img/bird.gif),url(../img/beach.jpg);
+	background-repeat: no-repeat;
+	background-size:20% 40% , 20% 20%, 20% 40%, cover;
+	background-attachment: fixed;
+	background-position: 0% 0%, 100% 0%, 100% 40%;
+}
+
+
+
+
+.leslie{
+	margin: 0 auto;
+	width: 600px;
+	padding: 30px;
+	color: #fff;
+	background-color: rgba(0,0,0,0.5);
+	min-height: 700px;
+}
+.sam img{
+	float: left;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
