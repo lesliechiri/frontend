@@ -1,0 +1,60 @@
+body{
+	background-color:coral;
+	font-family: arial;
+	color: #222
+
+}
+.login{
+	max-width: 400px;
+	background: white;
+	min-height: 300px;
+	margin: 10% auto;
+}
+.login{
+	margin-bottom: 5px;
+}
+.login form{
+	background:rgba(255,255,255,0.5);
+	padding: 30px;
+	margin:0 10px 5px;
+}
+
+.login form ul{
+	padding: 0px;
+	margin: 0px;
+
+}
+.login form ul li{
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 0px,0px,20px,0;
+	list-style: none;
+	
+
+}
+.login form label{
+	display: block;
+	padding-bottom:5px;
+	font-size:12px; 
+}
+
+.login form input+label{
+	display: inline;
+	padding-right: 10px;
+}
+.login form input{
+	display: block;
+	width: 328;
+	border: 1px solid #ccc;
+	height: 35px;
+	text-indent: 10px;
+
+
+}
+.login form input [type=submit]{
+width: 330px;
+background-color: #555;
+color: #fff;
+
+
+}
